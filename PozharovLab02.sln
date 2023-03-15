@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PozharovLab02", "PozharovLab02.csproj", "{FF6BDF95-D801-4438-90B7-AF4D1751C564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6BDF95-D801-4438-90B7-AF4D1751C564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6BDF95-D801-4438-90B7-AF4D1751C564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6BDF95-D801-4438-90B7-AF4D1751C564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6BDF95-D801-4438-90B7-AF4D1751C564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D55680-2503-4306-AC1F-23CBA1578DFC}
+	EndGlobalSection
+EndGlobal
